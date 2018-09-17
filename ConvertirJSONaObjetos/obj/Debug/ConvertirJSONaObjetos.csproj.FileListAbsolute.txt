@@ -1,0 +1,11 @@
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\bin\Debug\ConvertirJSONaObjetos.exe.config
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\bin\Debug\ConvertirJSONaObjetos.exe
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\bin\Debug\ConvertirJSONaObjetos.pdb
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\bin\Debug\Newtonsoft.Json.dll
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\bin\Debug\Newtonsoft.Json.xml
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\obj\Debug\ConvertirJSONaObjetos.csprojResolveAssemblyReference.cache
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\obj\Debug\ConvertirJSONaObjetos.Properties.Resources.resources
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\obj\Debug\ConvertirJSONaObjetos.csproj.GenerateResource.Cache
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\obj\Debug\ConvertirJSONaObjetos.exe
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\obj\Debug\ConvertirJSONaObjetos.pdb
+c:\users\rmartinez\documents\visual studio 2017\Projects\ConvertirJSONaObjetos\ConvertirJSONaObjetos\obj\Debug\ConvertirJSONaObjetos.Form1.resources
